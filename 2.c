@@ -6,5 +6,6 @@ int main()
 	scanf("%d,%d",&a,&b);
 	add=a+b;
 	printf("sum of a,b is %d ",add);
+	printf("hI Ramanji\n");
 		return 0;
 }
